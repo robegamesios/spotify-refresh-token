@@ -267,7 +267,7 @@ const App = () => {
         <div className="flex-1 bg-slate-700 rounded-xl p-5 text-base text-center no-underline">
           If this app helps you at all, feel free to star
           {' '}
-          <a href="https://github.com/alecchendev/spotify-refresh-token" target="_blank" rel="noreferrer" className="underline">the repo</a>
+          <a href="https://github.com/robegamesios/spotify-refresh-token" target="_blank" rel="noreferrer" className="underline">the repo</a>
           !
           Special thanks to
           {' '}
